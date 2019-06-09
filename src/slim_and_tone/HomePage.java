@@ -17,7 +17,7 @@ import javax.swing.ImageIcon;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.JScrollPane;
 
-import slim_and_tone.menu.MenuItem1;
+import slim_and_tone.menu.MenuItem;
 
 public class HomePage {
 
